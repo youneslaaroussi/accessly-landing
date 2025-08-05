@@ -6,8 +6,6 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true
   },
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/accessly-landing/' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '/accessly-landing' : '',
 };
 
 export default nextConfig;
