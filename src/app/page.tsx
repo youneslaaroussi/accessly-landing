@@ -89,7 +89,7 @@ export default function Home() {
             <div className="relative rounded-xl border bg-card p-4 shadow-2xl">
               <div className="aspect-video rounded-lg overflow-hidden">
                 <iframe
-                  src="https://player.vimeo.com/video/76979871?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"
+                  src="https://player.vimeo.com/video/1107575931?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"
                   width="100%"
                   height="100%"
                   frameBorder="0"
